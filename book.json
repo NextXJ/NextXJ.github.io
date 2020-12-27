@@ -1,0 +1,15 @@
+{
+	"title": "NextXJ",
+	"description": "NextXJ personal blog",
+	"author": "NextXJ",
+	"language": "zh-hans",
+	"root": ".",
+	"gitbook":"",
+	
+
+	
+	"plugins":[],
+
+	"pluginsConfig": {}
+
+}
